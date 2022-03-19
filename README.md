@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MuthuKarthikeyan00
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 FULLSTACK developer
+- 🌱 I’m currently Working in PHP 
 - 📫 email: muthukarthikeyan00@gmail.com
 
 <!---

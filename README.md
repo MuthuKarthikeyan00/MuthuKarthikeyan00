@@ -5,7 +5,7 @@
 
 
 [![Github](https://img.shields.io/github/followers/MuthuKarthikeyan00?label=Follow&style=social)](https://github.com/MuthuKarthikeyan00)
-[![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonfrancisjeejo/)](https://www.linkedin.com/in/antonfrancisjeejo/)
+
 
 <a href=""><img src="" width="300" alt=""/></a>
 
@@ -19,7 +19,7 @@ I'm a software developer with a passion for open-source projects. I love working
 
 <br>
 
-<p align = "center">
+<p align = "">
   <img src = "https://github-readme-stats.vercel.app/api?username=MuthuKarthikeyan00&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuKarthikeyan00&hide=css,java,html&theme=tokyonight">
 </p>

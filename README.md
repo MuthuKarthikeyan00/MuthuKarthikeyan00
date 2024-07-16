@@ -19,7 +19,7 @@ I'm a software developer with a passion for open-source projects. I love working
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuKarthikeyan00&hide=css,java,html&theme=tokyonight">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuthuKarthikeyan00" alt="Views" /> </p>
+
 
 ### GITHUB TROPHIES
 

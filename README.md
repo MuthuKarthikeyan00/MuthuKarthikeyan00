@@ -1,10 +1,9 @@
+# Welcome to My GitHub Profile
+
 - 👋 Hi, I’m @MuthuKarthikeyan00
 - 👀 FULLSTACK developer
 - 📫 email: muthukarthikeyan00@gmail.com
 -    Phone : 8940355564
-
-# Welcome to My GitHub Profile
-
 
 ## About Me
 I'm a software developer with a passion for open-source projects. I love working on web development and exploring new technologies.
@@ -16,6 +15,8 @@ I'm a software developer with a passion for open-source projects. I love working
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuthuKarthikeyan00&show_icons=true&theme=dark)
 
+### "Code until you find your solution"! 👋
+![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
 
 
 <!---

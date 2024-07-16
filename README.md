@@ -4,7 +4,7 @@
 
 # Welcome to My GitHub Profile
 
-![Profile Banner]([URL_to_your_banner_image](https://avatars.githubusercontent.com/u/80825133?v=4))
+![Profile Banner]([https://avatars.githubusercontent.com/u/80825133?v=4])
 
 ## About Me
 I'm a software developer with a passion for open-source projects. I love working on web development and exploring new technologies.

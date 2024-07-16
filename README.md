@@ -9,7 +9,7 @@
 I'm a software developer with a passion for open-source projects. I love working on web development and exploring new technologies.
 
 ## Skills
-- **Languages**: Node.js, JavaScript, PHP ,
+- **Languages**: Node.js, JavaScript, PHP , Typescript, Mysql
 - **Frameworks**: React, Node.js, Express JS 
 
 ## GitHub Stats

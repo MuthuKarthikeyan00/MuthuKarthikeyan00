@@ -20,8 +20,9 @@ I'm a software developer with a passion for open-source projects. I love working
 <br>
 
 <p align = "">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuKarthikeyan00&hide=css,java,html&theme=tokyonight">
   <img src = "https://github-readme-stats.vercel.app/api?username=MuthuKarthikeyan00&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuKarthikeyan00&hide=css,java,html&theme=tokyonight">
+
 </p>
 
 

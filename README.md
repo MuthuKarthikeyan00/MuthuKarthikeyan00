@@ -2,13 +2,9 @@
 
 # Muthu Karthikeyan
  FULLSTACK developer
-
-
+ 
 [![Github](https://img.shields.io/github/followers/MuthuKarthikeyan00?label=Follow&style=social)](https://github.com/MuthuKarthikeyan00)
-
-
 <a href=""><img src="" width="300" alt=""/></a>
-
 
 ## About Me
 I'm a software developer with a passion for open-source projects. I love working on web development and exploring new technologies.

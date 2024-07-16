@@ -14,9 +14,10 @@
 I'm a software developer with a passion for open-source projects. I love working on web development and exploring new technologies.
 
 ## Skills
-- Docker , prishma ORM , 
+
 - **Languages**: Node.js, JavaScript, PHP , Typescript, Mysql ,Postgresql
-- **Frameworks**: React , Express JS 
+- **Frameworks**: React , Express JS
+-  Docker , prishma ORM , 
 
 <br>
 

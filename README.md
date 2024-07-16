@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile
+
 
 # Muthu Karthikeyan
-# FULLSTACK developer
-# muthukarthikeyan00@gmail.com
+ FULLSTACK developer
+
 
 [![Github](https://img.shields.io/github/followers/MuthuKarthikeyan00?label=Follow&style=social)](https://github.com/MuthuKarthikeyan00)
 [![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonfrancisjeejo/)](https://www.linkedin.com/in/antonfrancisjeejo/)

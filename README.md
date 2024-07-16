@@ -12,8 +12,20 @@ I'm a software developer with a passion for open-source projects. I love working
 - **Languages**: Node.js, JavaScript, PHP , Typescript, Mysql
 - **Frameworks**: React, Node.js, Express JS 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuthuKarthikeyan00&show_icons=true&theme=dark)
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=antonfrancisjeejo&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonfrancisjeejo&hide=css,java,html&theme=tokyonight">
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonfrancisjeejo" alt="Views" /> </p>
+
+### GITHUB TROPHIES
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=antonfrancisjeejo)](https://github.com/ryo-ma/github-profile-trophy)<br>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
 
 ### "Code until you find your solution"! 👋
 ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)

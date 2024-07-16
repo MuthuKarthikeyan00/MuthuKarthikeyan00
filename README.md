@@ -15,17 +15,17 @@ I'm a software developer with a passion for open-source projects. I love working
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=antonfrancisjeejo&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=antonfrancisjeejo&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=MuthuKarthikeyan00&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MuthuKarthikeyan00&hide=css,java,html&theme=tokyonight">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonfrancisjeejo" alt="Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuthuKarthikeyan00" alt="Views" /> </p>
 
 ### GITHUB TROPHIES
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=antonfrancisjeejo)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuthuKarthikeyan00)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=antonfrancisjeejo)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MuthuKarthikeyan00)  
 
 ### "Code until you find your solution"! 👋
 ![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)

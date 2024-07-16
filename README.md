@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/MuthuKarthikeyan00?label=Follow&style=social)](https://github.com/MuthuKarthikeyan00)
 [![Linkedin](https://img.shields.io/badge/Anton%20Francis%20Jeejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antonfrancisjeejo/)](https://www.linkedin.com/in/antonfrancisjeejo/)
 
-<a href="https://app.daily.dev/antonjeejo13"><img src="https://github.com/antonfrancisjeejo/antonfrancisjeejo/blob/master/devcard.svg" width="300" alt="Anton Francis Jeejo's Dev Card"/></a>
+<a href=""><img src="" width="300" alt=""/></a>
 
 
 ## About Me

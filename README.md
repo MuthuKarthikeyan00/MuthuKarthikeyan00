@@ -7,7 +7,7 @@
 <a href=""><img src="" width="300" alt=""/></a>
 
 ## About Me
-I'm a software developer with a passion for open-source projects. I love working on web development and exploring new technologies.
+I'm a software developer. I love working on web development and exploring new technologies.
 
 ## Skills
 

@@ -16,8 +16,7 @@
 
 - 🚀 ~5 years of experience building web applications end to end: backend APIs, React frontends, and DevOps basics
 - 🔧 I work with microservices, queues, and relational databases, and I enjoy clean architecture
-- 🛒 Experienced in WordPress/WooCommerce plugin development, including hands-on work on the **Discount Rules for WooCommerce** plugin
-- 🧵 I also run **[MM Exports](https://mmexportsindia.com)**, a knitwear and textile export business near Tirupur
+- 🛒 Experienced in WordPress/WooCommerce plugin development
 - 🌱 Currently exploring: system design, NestJS best practices, and SaaS products
 - 📫 Reach me: [GitHub](https://github.com/MuthuKarthikeyan00) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL@example.com)
 

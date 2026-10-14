@@ -11,7 +11,7 @@
     </td>
     <td>
       <h2>Hi there, I'm Muthu 👋</h2>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&vCenter=true&width=420&lines=Building+scalable+web+apps;Node.js+%7C+React+%7C+NestJS;Microservices+%26+WooCommerce+plugins;Code+until+you+find+your+solution" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&vCenter=true&width=420&lines=Building+scalable+web+apps;Node.js+%7C+React+%7C+NestJS;Microservices+%26+WooCommerce+plugins;Code+until+you+find+your+solution"  />
       <br/><br/>
       <a href="https://github.com/MuthuKarthikeyan00"><img src="https://img.shields.io/github/followers/MuthuKarthikeyan00?label=Follow&style=for-the-badge&logo=github&color=2f81f7" /></a>
       <img src="https://komarev.com/ghpvc/?username=MuthuKarthikeyan00&label=Views&color=2f81f7&style=for-the-badge" />

@@ -31,8 +31,7 @@
 
 - 🚀 ~5 years building web apps end to end: APIs, React frontends, and Docker-based deployments
 - 🔧 I enjoy microservices, queues, and clean architecture
-- 🛒 WordPress/WooCommerce plugin developer, including hands-on work on **Discount Rules for WooCommerce**
-- 🧵 I run **MM Exports**, a knitwear and textile export business near Tirupur
+- 🛒 WordPress/WooCommerce plugin developer
 - 🌱 Currently exploring system design, NestJS best practices, and SaaS products
 
 ---

@@ -19,10 +19,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muthu-karthikeyan-8588ab1b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:muthukarhikyan00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 

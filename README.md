@@ -3,21 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Muthu%20Karthikeyan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Coimbatore,%20India&descAlignY=58&descSize=18" width="100%" />
 </p>
 
-<!-- ================= HERO ================= -->
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="240">
-      <img src="https://wsrv.nl/?url=github.com/MuthuKarthikeyan00.png&w=400&h=400&fit=cover&mask=circle" width="180" alt="Muthu Karthikeyan" />
-    </td>
-    <td>
-      <h2>Hi there, I'm Muthu 👋</h2>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&vCenter=true&width=420&lines=Building+scalable+web+apps;Node.js+%7C+React+%7C+NestJS;Microservices+%26+WooCommerce+plugins;Code+until+you+find+your+solution"  />
-      <br/><br/>
-      <a href="https://github.com/MuthuKarthikeyan00"><img src="https://img.shields.io/github/followers/MuthuKarthikeyan00?label=Follow&style=for-the-badge&logo=github&color=2f81f7" /></a>
-    
-   
-  </tr>
-</table>
 
 
 <p align="center">

@@ -56,10 +56,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuthuKarthikeyan00&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuthuKarthikeyan00&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" />
-</p>
-
 
 
 ## 📌 Featured Projects

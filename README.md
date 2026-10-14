@@ -15,7 +15,7 @@
       <br/><br/>
       <a href="https://github.com/MuthuKarthikeyan00"><img src="https://img.shields.io/github/followers/MuthuKarthikeyan00?label=Follow&style=for-the-badge&logo=github&color=2f81f7" /></a>
     
-    </td>
+   
   </tr>
 </table>
 
